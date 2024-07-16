@@ -1,0 +1,5 @@
+email-validator==2.2.0
+fastapi==0.111.1
+PyJWT==2.8.0
+python-decouple==3.3
+uvicorn==0.30.1
